@@ -2,3 +2,4 @@ This is my first text
 This line is edited in website
 this is conflict example
 for new branch example
+for master branch exmple
